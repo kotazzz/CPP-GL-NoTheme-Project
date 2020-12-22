@@ -8,6 +8,6 @@
 
 My Bat File:
 ```bash
-g++ -o Program.exe main.cpp.cpp
+g++ -o Program.exe main.cpp
 pause
 ```

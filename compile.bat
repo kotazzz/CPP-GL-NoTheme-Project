@@ -1,2 +1,2 @@
-g++ -o Program.exe main.cpp.cpp
+g++.exe -o Program.exe main.cpp
 pause
